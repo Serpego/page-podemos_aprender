@@ -1,0 +1,44 @@
+#cover{
+  background: #222 url(../img/sol.jpg) center center no-repeat;
+  background-size: cover;
+  color: white;
+  height: 100 %;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+#cover-texto{
+  width: 100 %;
+  padding: 5rem 0;
+}
+
+html,body,h2{
+    height:100 %;
+    color: black;
+    font-family: 'Playfair Display', serif;
+    background: url(../img/sol.jpg);
+}
+img{
+  max-width: 100 %;
+}
+.contenido-seccion{
+  padding: 5rem 0;
+}
+#acerca{
+  background: url(../img/equipo.jpg) center center no-repeat;
+  background-size: cover;
+}
+.texto-acerca-de{
+  background: rgba(0, 0, 0, 0.3);
+  color: black;
+  padding: 1.875rem;
+
+}
+h1,h2,h3{
+  text-align: center;
+
+  font-family: 'Playfair Display', serif;
+}
+h2,h3{
+  color: black;
+  }
